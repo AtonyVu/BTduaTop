@@ -1,0 +1,18 @@
+[
+    {
+    "id": 1,
+    "name": "Dinh Phuc Nguyen",
+    "username": "dpnguyen",
+    "email": "dpnguyen@gmail.com",
+    "phoneNumber": "1123123213",
+    "type":"USER"
+    },
+    {
+    "id": 2,
+    "name": "hao",
+    "username": "nguyendp",
+    "email": "nguyendp@gmail.com",
+    "phoneNumber": "1123123213",
+    "type":"VIP"
+    }
+ ]
