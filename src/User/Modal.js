@@ -40,6 +40,11 @@ class Modal extends Component {
 if(state.name==''||state.username==''||state.email==''||state.phoneNumber==''||state.type=='')
  {
    alert("khong dc bo trong");
+   this.state.name = ''
+      this.state.username =  ''
+      this.state.email =   ''
+      this.state.phone =   ''
+      this.state.type = ''
    return;
  }
   
