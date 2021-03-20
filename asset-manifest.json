@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/BTduaTop/static/css/main.22624694.chunk.css",
+    "main.js": "/BTduaTop/static/js/main.e453d20c.chunk.js",
+    "main.js.map": "/BTduaTop/static/js/main.e453d20c.chunk.js.map",
+    "runtime-main.js": "/BTduaTop/static/js/runtime-main.8b4038a8.js",
+    "runtime-main.js.map": "/BTduaTop/static/js/runtime-main.8b4038a8.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/BTduaTop/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.485aa017.chunk.js": "/BTduaTop/static/js/2.485aa017.chunk.js",
+    "static/js/2.485aa017.chunk.js.map": "/BTduaTop/static/js/2.485aa017.chunk.js.map",
+    "static/js/3.45ce26ae.chunk.js": "/BTduaTop/static/js/3.45ce26ae.chunk.js",
+    "static/js/3.45ce26ae.chunk.js.map": "/BTduaTop/static/js/3.45ce26ae.chunk.js.map",
+    "index.html": "/BTduaTop/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/BTduaTop/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.22624694.chunk.css.map": "/BTduaTop/static/css/main.22624694.chunk.css.map",
+    "static/js/2.485aa017.chunk.js.LICENSE.txt": "/BTduaTop/static/js/2.485aa017.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b4038a8.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.485aa017.chunk.js",
+    "static/css/main.22624694.chunk.css",
+    "static/js/main.e453d20c.chunk.js"
+  ]
+}
